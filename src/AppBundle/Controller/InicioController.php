@@ -31,9 +31,7 @@ class InicioController extends Controller
      */
     public function dynamicAction($mensaje)
     {
-        $plantillas = $this->container->get('templating');
 
-        $html = $plantillas->render("prueba/prueba.html.twig", ["mensaje" => $mensaje]);
-        return new Response($html);
+        return $this->render("prueba/prueba.html.twig", ["mensaje" => $mensaje]);
     }
 }
