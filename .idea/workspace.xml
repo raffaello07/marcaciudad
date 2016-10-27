@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f013ddf-28eb-4780-a9f6-4b274bb7adf9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/InicioController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/InicioController.php" />
-    </list>
+    <list default="true" id="2f013ddf-28eb-4780-a9f6-4b274bb7adf9" name="Default" comment="" />
     <ignored path="cmsMarcaCiudad.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -394,7 +391,7 @@
       <workItem from="1476210028527" duration="209000" />
       <workItem from="1476210252600" duration="150000" />
       <workItem from="1476210409515" duration="8405000" />
-      <workItem from="1477599501344" duration="26000" />
+      <workItem from="1477599501344" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="Pruebas con Twig">
       <created>1476217197359</created>
@@ -407,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8790000" />
+    <option name="totallyTimeSpent" value="8924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
